@@ -1,0 +1,52 @@
+SCRUM es una metodologia de desarrollo agil mas utilizadas en el mundo, es facil de entender e implementar
+
+Se enfoca en fomentar el trabajo en equipo generando un progreso iterativo hascia una meta definida.
+
+3 roles de equipo
+-product owner voz del cliente, deciciones finales del producto, escribe historias de usuario.
+-scum master asegurar el intercambio eficiente de programacion, ayuda a eliminar obstaculos.
+-equipo de desarrollo entre 3 a 9 personas, requieren todas las habilidades para desarrollar el proyecto.
+stakeholders o accionistas (no son parte del equipo de scrum, pero seran quienes utilicen 
+nuestro producto o servicio.)
+
+procuct Backlog es el conjunto de todos los requisitos del proyecto, contiene descripciones genericas de
+funcionalidades deseables, esta lista es gestionada por el product owner
+
+Sprint backlog conjunto de requisitos que seran realizados durante el sprint actual, esta lista sera
+llevada a cabo por el equipo de trabajo.
+
+sprint es el periodo en el que se lleva el trabajo en si, su duracion es definida por el equipo por lo
+general 2 a 4 semanas.
+
+tablero de tareas.
+
+story: historias de usuario que originaron las tareas
+to do: Tareas pendientes a realizar
+in progress: tareas que se estan llevando a cabo
+to verifiy: tareas listas que requieren verificacion
+done: tareas listas y verificadas.
+
+historias de usuario:
+permiten describir una funcionalidad o comportamiento vista como los ojos del usuario
+deben tener condiciones que deben cumplirse
+
+
+como
+[rol de usuario]
+quiero
+[objetivo]
+para poder
+[beneficio]
+
+ceremonias estan apuntadas para tener aceitada la comunicacion del equipo.
+tipos de ceremonias:
+
+-Planificacion: Se define el trabajo que se hara durante el sprint(con el equipo completo)
+-daily stand-up: reunion diaria donde cada uno debe hablar maximo 3 minutos comentado:
+que hice ayer ?
+tuve impedimientos para lograr mis objetivos ?
+que voy a hacer hoy ?
+-Revision o demo: revisar el trabajo que fue completado o no.
+-retrospectiva: reunion que se enfoca en el avance o mantener la comunicacion entre compañeros.
+ 
+
