@@ -1,0 +1,1 @@
+rm -rf  elimina la carpeta con los archivos dentro
